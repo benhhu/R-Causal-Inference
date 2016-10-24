@@ -1,1 +1,4 @@
 #Causal Inference
+
+
+#IP weighting
